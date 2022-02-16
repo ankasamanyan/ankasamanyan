@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![akasaman's 42 stats](https://badge42.herokuapp.com/api/stats/akasaman)](https://github.com/JaeSeoKim/badge42)
+[![akasaman's 42 stats](https://badge42.herokuapp.com/api/stats/akasaman?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 <!--
 **ankasamanyan/ankasamanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
