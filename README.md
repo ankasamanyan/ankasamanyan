@@ -2,7 +2,7 @@
 
 I'm Anahit, and I'm currenty studying at 42 Wolfsburg! 💻✨
 
-![42_girl](https://user-images.githubusercontent.com/89840461/158847876-b620765f-2c08-4acd-b3cf-4cfca8acd994.png)
+![image](https://user-images.githubusercontent.com/89840461/158848739-c8a5931b-47c8-465a-87b0-cb497fc2f2d7.png)
 
 <!-- [![akasaman's 42 stats](https://badge42.herokuapp.com/api/stats/akasaman?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
 <!-- ![](https://media3.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47gqg0pa91ubhoggvuojn6tt9ft3fvs57r828s7j0d&rid=giphy.gif&ct=g) -->
