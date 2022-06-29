@@ -1,6 +1,6 @@
 ### ✨ Hiello ✨
 
-I'm Anahit, and I'm currenty studying at 42 Wolfsburg! 💻✨
+I'm Anahit, and I'm software engineering student at 42 Wolfsburg! 💻✨
 
 ![image](https://user-images.githubusercontent.com/89840461/158849118-ad3a3edd-4209-4f6b-851b-30d28007b94c.png)
 
