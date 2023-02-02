@@ -4,7 +4,7 @@ I'm Anahit, and I'm software engineering student at 42 Wolfsburg! 💻✨
 
 ![image](https://user-images.githubusercontent.com/89840461/158849118-ad3a3edd-4209-4f6b-851b-30d28007b94c.png)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankasamanyan&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankasamanyan&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![akasaman's 42 stats](https://badge42.herokuapp.com/api/stats/akasaman?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
 <!-- ![](https://media3.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47gqg0pa91ubhoggvuojn6tt9ft3fvs57r828s7j0d&rid=giphy.gif&ct=g) -->
