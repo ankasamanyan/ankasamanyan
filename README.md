@@ -6,6 +6,18 @@ I'm Anahit, and I'm software engineering student at 42 Wolfsburg! 💻✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankasamanyan&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ankasamanyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankasamanyan&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankasamanyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=ankasamanyan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- [![akasaman's 42 stats](https://badge42.herokuapp.com/api/stats/akasaman?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
 <!-- ![](https://media3.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47gqg0pa91ubhoggvuojn6tt9ft3fvs57r828s7j0d&rid=giphy.gif&ct=g) -->
 <!--
