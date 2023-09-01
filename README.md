@@ -2,7 +2,9 @@
 
 I'm Anahit, and I'm software engineering student at 42 Wolfsburg! 💻✨
 
-![image](https://user-images.githubusercontent.com/89840461/158849118-ad3a3edd-4209-4f6b-851b-30d28007b94c.png)
+<!-- ![image](https://user-images.githubusercontent.com/89840461/158849118-ad3a3edd-4209-4f6b-851b-30d28007b94c.png) -->
+
+![tumblr_mm4r6wdoup1rfjowdo1_500](https://github.com/ankasamanyan/ankasamanyan/assets/89840461/af374365-da0b-4f55-bb21-f370d60e49d4)
 
 ### GitHub Stats✨:
 
