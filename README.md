@@ -12,9 +12,9 @@ I'm Anahit, and I'm software engineering student at 42 Wolfsburg! 💻✨
 <!-- <br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankasamanyan&theme=material-palenight&hide_border=false)<br/>
 
-<!--### GitHub Trophies 🏆:
+### GitHub Trophies 🏆:
 
-![](https://github-profile-trophy.vercel.app/?username=ankasamanyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=ankasamanyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ankasamanyan&icon=7&color=6)](https://visitcount.itsvg.in)
